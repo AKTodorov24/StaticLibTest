@@ -3,6 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="StaticLibrary/StaticLibrary.vcxproj" />
-  <Project Path="StaticLibTest/StaticLibTest.vcxproj" />
+  <Project Path="StaticLibrary/StaticLibrary.vcxproj" Id="aa264d3a-95a9-4c69-941d-0c77391ea1a5" />
+  <Project Path="StaticLibTest/StaticLibTest.vcxproj" Id="05fb63db-aa19-4239-a89f-c867606cd245" />
 </Solution>
