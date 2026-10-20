@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\aktodorov24\\source\\repos\\staticlibtest\\staticlib\\staticlib.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\aktodorov24\\source\\repos\\staticlibtest\\staticlib\\pch.h",
+            "c:\\users\\aktodorov24\\source\\repos\\staticlibtest\\staticlib\\framework.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
